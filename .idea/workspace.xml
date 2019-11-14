@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="479bed20-96c6-4d41-8b65-ec0b70059cd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/diyidan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/reverse_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/staticmethod_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/diff_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/iteration_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/random_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/set_get_attr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/flower_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day05/flower_test.py" afterDir="false" />
-    </list>
+    <list default="true" id="479bed20-96c6-4d41-8b65-ec0b70059cd2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day05/reverse_num.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -144,11 +132,6 @@
             <path>
               <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="day05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,7 +306,7 @@
       <updated>1571280142852</updated>
       <workItem from="1571280144549" duration="19780000" />
       <workItem from="1573098569020" duration="3791000" />
-      <workItem from="1573438169000" duration="12824000" />
+      <workItem from="1573438169000" duration="14681000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1571280311623</created>
@@ -336,7 +319,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36395000" />
+    <option name="totallyTimeSpent" value="38252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,7 +332,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1177" width="1920" height="1177" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,10 +339,10 @@
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3299539" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3299539" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299539" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3299539" />
       <window_info anchor="bottom" id="Messages" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3299539" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
@@ -422,22 +404,6 @@
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day05/reverse_num.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day05/reverse_num.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Exercise$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1573548638747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
     <SUITE FILE_PATH="coverage/Exercise$flag_test.coverage" NAME="flag_test Coverage Results" MODIFIED="1571391935498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
@@ -448,7 +414,7 @@
     <SUITE FILE_PATH="coverage/Exercise$even_count.coverage" NAME="even_count Coverage Results" MODIFIED="1571625422010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/Exercise$diff_triangles.coverage" NAME="diff_triangles Coverage Results" MODIFIED="1571643244453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/Exercise$highest_divisor_and_lowest_multiple.coverage" NAME="highest_divisor_and_lowest_multiple Coverage Results" MODIFIED="1571629486576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Exercise$reverse_num.coverage" NAME="reverse_num Coverage Results" MODIFIED="1573723223312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Exercise$reverse_num.coverage" NAME="reverse_num Coverage Results" MODIFIED="1573724499207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/Exercise$peggy_test.coverage" NAME="peggy_test Coverage Results" MODIFIED="1571385834299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/Exercise$flower_test.coverage" NAME="flower_test Coverage Results" MODIFIED="1573710192778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/Exercise$set_get_attr.coverage" NAME="set_get_attr Coverage Results" MODIFIED="1573556227746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
@@ -595,8 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day05/reverse_num.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
