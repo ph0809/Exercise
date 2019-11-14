@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479bed20-96c6-4d41-8b65-ec0b70059cd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day04/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/diff_triangles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/even_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/highest_divisor_and_lowest_multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/prime_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/diyidan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/reverse_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/staticmethod_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/diff_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/iteration_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/random_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/set_get_attr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/flower_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day05/flower_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,75 +21,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01/turtle_test.py">
+        <entry file="file://$PROJECT_DIR$/day05/flower_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-              <folding>
-                <element signature="e#51#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01/clock_turtle_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-799">
-              <caret line="51" lean-forward="true" selection-start-line="7" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="e#45#58#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day04/diff_triangles.py">
+        <entry file="file://$PROJECT_DIR$/day05/reverse_num.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            <state relative-caret-position="153">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day04/even_count.py">
+        <entry file="file://$PROJECT_DIR$/day06/staticmethod_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day04/prime_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day04/highest_divisor_and_lowest_multiple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01/flag_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="459">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding>
-                <element signature="e#45#58#0" expanded="true" />
+                <element signature="e#45#55#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day08/set_get_attr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day08/random_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#45#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day08/iteration_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -115,12 +107,26 @@
         <option value="$PROJECT_DIR$/day04/prime_test.py" />
         <option value="$PROJECT_DIR$/day04/highest_divisor_and_lowest_multiple.py" />
         <option value="$PROJECT_DIR$/day04/diff_triangles.py" />
+        <option value="$PROJECT_DIR$/day06/staticmethod_test.py" />
+        <option value="$PROJECT_DIR$/day07.py" />
+        <option value="$PROJECT_DIR$/day07/diff_functions.py" />
+        <option value="$PROJECT_DIR$/day08/random_test.py" />
+        <option value="$PROJECT_DIR$/day08/iteration_functions.py" />
+        <option value="$PROJECT_DIR$/day08/set_get_attr.py" />
+        <option value="$PROJECT_DIR$/day05/flower_test.py" />
+        <option value="$PROJECT_DIR$/day05/reverse_num.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-250" />
-    <option name="y" value="-1155" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="-1177" />
     <option name="width" value="1920" />
     <option name="height" value="1177" />
   </component>
@@ -164,7 +170,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day07/diff_functions" />
+      <recent name="$PROJECT_DIR$/diff_functions" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,8 +190,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.diff_triangles">
-    <configuration name="diff_triangles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.reverse_num">
+    <configuration name="flower_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +199,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/diff_triangles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/flower_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="even_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="iteration_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +221,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/even_count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/iteration_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flag_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="random_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +243,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/flag_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/random_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="highest_divisor_and_lowest_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reverse_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +265,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/highest_divisor_and_lowest_multiple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/reverse_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="set_get_attr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +287,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/prime_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/set_get_attr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.diff_triangles" />
-        <item itemvalue="Python.highest_divisor_and_lowest_multiple" />
-        <item itemvalue="Python.prime_test" />
-        <item itemvalue="Python.even_count" />
-        <item itemvalue="Python.flag_test" />
+        <item itemvalue="Python.reverse_num" />
+        <item itemvalue="Python.flower_test" />
+        <item itemvalue="Python.set_get_attr" />
+        <item itemvalue="Python.iteration_functions" />
+        <item itemvalue="Python.random_test" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +321,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571280142852</updated>
-      <workItem from="1571280144549" duration="18894000" />
+      <workItem from="1571280144549" duration="19780000" />
+      <workItem from="1573098569020" duration="3791000" />
+      <workItem from="1573438169000" duration="12824000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1571280311623</created>
@@ -322,7 +336,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18894000" />
+    <option name="totallyTimeSpent" value="36395000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,15 +348,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-250" y="-1155" width="1920" height="1177" extended-state="0" />
+    <frame x="0" y="-1177" width="1920" height="1177" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3299539" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3299539" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3299539" />
       <window_info anchor="bottom" id="Messages" order="5" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.3299539" />
@@ -353,11 +368,11 @@
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" weight="0.3299539" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,20 +403,55 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day05/reverse_num.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day05/reverse_num.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exercise$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1573548638747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
+    <SUITE FILE_PATH="coverage/Exercise$flag_test.coverage" NAME="flag_test Coverage Results" MODIFIED="1571391935498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/Exercise$iteration_functions.coverage" NAME="iteration_functions Coverage Results" MODIFIED="1573552767847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
+    <SUITE FILE_PATH="coverage/Exercise$clock_turtle_test.coverage" NAME="clock_turtle_test Coverage Results" MODIFIED="1571385860586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/Exercise$turtle_test.coverage" NAME="turtle_test Coverage Results" MODIFIED="1571380175342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/Exercise$prime_test.coverage" NAME="prime_test Coverage Results" MODIFIED="1571628238135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/Exercise$even_count.coverage" NAME="even_count Coverage Results" MODIFIED="1571625422010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Exercise$flag_test.coverage" NAME="flag_test Coverage Results" MODIFIED="1571391935498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/Exercise$diff_triangles.coverage" NAME="diff_triangles Coverage Results" MODIFIED="1571643244453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/Exercise$highest_divisor_and_lowest_multiple.coverage" NAME="highest_divisor_and_lowest_multiple Coverage Results" MODIFIED="1571629486576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Exercise$reverse_num.coverage" NAME="reverse_num Coverage Results" MODIFIED="1573723223312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/Exercise$peggy_test.coverage" NAME="peggy_test Coverage Results" MODIFIED="1571385834299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
-    <SUITE FILE_PATH="coverage/Exercise$clock_turtle_test.coverage" NAME="clock_turtle_test Coverage Results" MODIFIED="1571385860586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/Exercise$flower_test.coverage" NAME="flower_test Coverage Results" MODIFIED="1573710192778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Exercise$set_get_attr.coverage" NAME="set_get_attr Coverage Results" MODIFIED="1573556227746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -414,9 +464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/day01/turtle_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -437,13 +485,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day04.py" />
     <entry file="file://$PROJECT_DIR$/day04/prime_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -484,10 +526,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day04/diff_triangles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        <state relative-caret-position="238">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day07/diff_functions/day07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="88" column="34" lean-forward="true" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/diff_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/iteration_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/random_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#45#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/staticmethod_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#45#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/set_get_attr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/flower_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/reverse_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
