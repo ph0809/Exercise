@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>菜鸟教程（runoob)</title>
+</head>
+<body>
+    <form action="/search-post" method="post">
+        {% crsf_token %}   #post方法提交的表格必须有这个标签
+        <input type="text" name="q">
+        <input type="submit" value="Submit">
+    </form>
+
+    <p>{{ rlt }}</p>
+
+</body>
+</html>

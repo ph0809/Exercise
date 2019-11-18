@@ -43,11 +43,22 @@ from . import view
 
 
 """Django >= 2.0的版本， django.conf.urls====>django.urls取代"""
-from django.urls import path
-from . import view
+# from django.urls import path
+# from . import view
+#
+# urlpatterns = [
+#     path('hello/', view.hello),
+#     # path('world/', view.world),   # 如果是路径，后面必须加/
+# ]
+
+from django.conf.urls import *
+from . import view, testdb
 
 urlpatterns = [
-    path('hello/', view.hello),
-    # path('world/', view.world),   # 如果是路径，后面必须加/
+    url(r'^hello$', view.hello),
+    url(r'^testdb$', testdb.testdb),
+    url(r'^search_form$', search.search_form),
+    url(r'^search$', search.search),
+    url(r'^search-post$', search2.search_post),
 ]
 
