@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479bed20-96c6-4d41-8b65-ec0b70059cd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day09-DjangoDemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09-DjangoDemo/first_django.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09-DjangoDemo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/day09/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09-DjangoDemo/first_django.py" beforeDir="false" afterPath="$PROJECT_DIR$/day09/first_django.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day09-DjangoDemo/first_django.py">
+        <entry file="file://$PROJECT_DIR$/day09/first_django.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -123,8 +123,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="41" />
-    <option name="y" value="-1103" />
+    <option name="x" value="313" />
+    <option name="y" value="-1171" />
     <option name="width" value="1920" />
     <option name="height" value="1177" />
   </component>
@@ -136,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,12 +146,13 @@
             <path>
               <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="day09-DjangoDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,6 +323,7 @@
       <workItem from="1573098569020" duration="3791000" />
       <workItem from="1573438169000" duration="15383000" />
       <workItem from="1573727298044" duration="978000" />
+      <workItem from="1573814501338" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1571280311623</created>
@@ -335,7 +336,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39932000" />
+    <option name="totallyTimeSpent" value="40220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,9 +348,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="-1103" width="1920" height="1177" extended-state="0" />
+    <frame x="120" y="-1177" width="1920" height="1177" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -358,7 +359,7 @@
       <window_info anchor="bottom" id="Run" order="3" weight="0.3299539" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3299539" />
       <window_info anchor="bottom" id="Messages" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49946752" visible="true" weight="0.3299539" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49946752" visible="true" weight="0.45253456" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005325" side_tool="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
@@ -535,6 +536,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day05/reverse_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day06/staticmethod_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -569,14 +577,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/reverse_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day09-DjangoDemo/first_django.py">
+    <entry file="file://$PROJECT_DIR$/day09/first_django.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
