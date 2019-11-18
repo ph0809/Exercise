@@ -13,12 +13,12 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
-# from django.contrib import admin
-# from django.urls import path
-#
-# urlpatterns = [
-#     path('admin/', admin.site.urls),
-# ]
+from django.contrib import admin
+from django.urls import path
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+]
 
 from django.conf.urls import url
 from . import view
@@ -51,14 +51,14 @@ from . import view
 #     # path('world/', view.world),   # 如果是路径，后面必须加/
 # ]
 
-from django.conf.urls import *
-from . import view, testdb
-
-urlpatterns = [
-    url(r'^hello$', view.hello),
-    url(r'^testdb$', testdb.testdb),
-    url(r'^search_form$', search.search_form),
-    url(r'^search$', search.search),
-    url(r'^search-post$', search2.search_post),
-]
+# from django.conf.urls import *
+# from . import view, testdb
+#
+# urlpatterns = [
+#     url(r'^hello$', view.hello),
+#     url(r'^testdb$', testdb.testdb),
+#     url(r'^search_form$', search.search_form),
+#     url(r'^search$', search.search),
+#     url(r'^search-post$', search2.search_post),
+# ]
 
